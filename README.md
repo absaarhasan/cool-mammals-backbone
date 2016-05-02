@@ -1,4 +1,4 @@
-# Cool Mammals -- Backbone Demo
+# Cool Mammals: Backbone example code
 
 This is my equivalent to a To Do app. It's just a silly app to help demonstrate Backbone code.
 
